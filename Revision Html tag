@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang ="en">
+<head>
+<meta charset ="UTF-8">
+<title>Revision</title>
+</head>
+<body>
+//heading tag//
+<h1>hello</h1>
+<h2>hello</h2>
+<h3>hello</h3>
+<h4>hello</h4>
+<h5>hello</h5>
+<h6>hello</h6>
+
+<p>
+Lorem Ipsum is simply dummy text of the<span style="color:blue;">text</span> printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+</p>
+<pre>
+Lorem Ipsum is simply<small>dummy</small> text of the printing and<b>typesetting</b>  industry. Lorem<strong>Ipsum</strong>  has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was <em>popularised</em> in the 1960s with the release of Letraset sheets <i>containing</i> Lorem Ipsum passages, and more <del>recently</del> with desktop <u>publishing</u> software like Aldus PageMaker including <mark>versions</mark> of Lorem <ins>Ipsum</ins>
+
+</pre>
+
+<ul>
+<li>list1</li>
+<li>list2</li>
+<li>list3</li>
+<li>list4</li>
+<li>list5</li>
+</ul>
+<ol>
+li>list1</li>
+<li>list2</li>
+<li>list3</li>
+<li>list4</li>
+<li>list5</li>
+</ol>
+<img src="images/download.jpeg"
+
+<br>
+<br>
+<br>
+<video width ="300" controls>
+<source src="">
+</video>
+<br>
+<audio controls>
+<source src ="">
+</audio>
+<br
+<p>
+release of <cite>Letraset</cite> sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including
+</p>
+<br
+
+<bdo dir ="rtl">Lorem Ipsum passages, and more recently</bdo>
+<br
+<p>
+the<abbr title="doctor">Dr</abbr>the test</p>
+<br
+<h4>H<sub>2</sub>o</h4>
+<h4>o<sup>2</sup</h4>
+</body>
+</html>
